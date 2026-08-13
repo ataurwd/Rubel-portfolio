@@ -1,0 +1,175 @@
+[
+  {
+    "id": "residential-build",
+    "number": "01",
+    "title": "Residential Build",
+    "category": "Architecture · Interior · 3D Visualization",
+    "location": "Dhaka, BD",
+    "year": "2025",
+    "type": "Residential Interior & Build",
+    "client": "Private Residence",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "4,800 sq ft",
+    "image": "/images/projects/residential-build/1.jpg",
+    "description": "A luxury modern residential build featuring an open-plan living, dining, and kitchen layout. Highlighted by bespoke marble island joinery, fluted wood paneling, warm ambient LED illumination, and photorealistic 3D interior renders.",
+    "images": [
+      "/images/projects/residential-build/1.jpg",
+      "/images/projects/residential-build/2.jpg",
+      "/images/projects/residential-build/3.jpg",
+      "/images/projects/residential-build/4.jpg",
+      "/images/projects/residential-build/5.jpg",
+      "/images/projects/residential-build/6.jpg"
+    ]
+  },
+  {
+    "id": "gulshan-2-residential",
+    "number": "02",
+    "title": "Gulshan 2 Residential",
+    "category": "Interior Design · 3D Visualization",
+    "location": "Gulshan 2, Dhaka",
+    "year": "2025",
+    "type": "Luxury Residential Apartment",
+    "client": "Private Client",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "5,200 sq ft",
+    "image": "/images/projects/gulshan-2-residential/5.jpg",
+    "description": "A luxury residential interior in Gulshan 2 featuring refined master bedroom suites with integrated gaming/workstations, custom glass wardrobes, accent seating, and an expansive modern living room lounge.",
+    "images": [
+      "/images/projects/gulshan-2-residential/1.jpg",
+      "/images/projects/gulshan-2-residential/2.jpg",
+      "/images/projects/gulshan-2-residential/3.jpg",
+      "/images/projects/gulshan-2-residential/4.jpg",
+      "/images/projects/gulshan-2-residential/5.jpg",
+      "/images/projects/gulshan-2-residential/6.jpg",
+      "/images/projects/gulshan-2-residential/7.jpg",
+      "/images/projects/gulshan-2-residential/8.jpg",
+      "/images/projects/gulshan-2-residential/9.jpg",
+      "/images/projects/gulshan-2-residential/10.jpg"
+    ]
+  },
+  {
+    "id": "modern-bathroom",
+    "number": "03",
+    "title": "Modern Luxury Bathroom",
+    "category": "Interior Design · 3D Visualization",
+    "location": "Dhaka, BD",
+    "year": "2025",
+    "type": "Ensuite Bathroom Interior",
+    "client": "Private Client",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "180 sq ft",
+    "image": "/images/projects/modern-bathroom/2.jpg",
+    "description": "A contemporary luxury ensuite bathroom design featuring black matte sanitary fixtures, glass shower enclosure, LED backlit mirror framing, stone countertop, and custom dark grey cabinetry.",
+    "images": [
+      "/images/projects/modern-bathroom/1.jpg",
+      "/images/projects/modern-bathroom/2.jpg"
+    ]
+  },
+  {
+    "id": "residence-building-4",
+    "number": "04",
+    "title": "Residence Building 04",
+    "category": "Architecture · Interior · 3D Visualization",
+    "location": "Dhaka, BD",
+    "year": "2025",
+    "type": "Modern Residential Suite",
+    "client": "Private Residence",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "4,200 sq ft",
+    "image": "/images/projects/residence-building-4/5.jpg",
+    "description": "A refined modern residential suite featuring warm wood paneling, woven fabric headboards, custom-built study nooks with integrated LED shelving, and high-performance gaming workstation renders.",
+    "images": [
+      "/images/projects/residence-building-4/1.jpg",
+      "/images/projects/residence-building-4/2.jpg",
+      "/images/projects/residence-building-4/3.jpg",
+      "/images/projects/residence-building-4/4.jpg",
+      "/images/projects/residence-building-4/5.jpg",
+      "/images/projects/residence-building-4/6.jpg",
+      "/images/projects/residence-building-4/7.jpg"
+    ]
+  },
+  {
+    "id": "office-interior",
+    "number": "05",
+    "title": "Office Interior",
+    "category": "Commercial Interior · Space Planning · 3D Visualization",
+    "location": "Banani, Dhaka",
+    "year": "2025",
+    "type": "Tech Workspace & Creative Studio",
+    "client": "Step Media Ltd.",
+    "role": "3D Visualizer & Space Planner",
+    "area": "6,500 sq ft",
+    "image": "/images/projects/office-interior/3.jpg",
+    "description": "A vibrant, high-energy tech office interior featuring custom organic glowing ceiling light installations, neon accent wall art, ergonomic workstation clusters, and casual bean-bag breakout spaces.",
+    "images": [
+      "/images/projects/office-interior/1.jpg",
+      "/images/projects/office-interior/2.jpg",
+      "/images/projects/office-interior/3.jpg"
+    ]
+  },
+  {
+    "id": "gulshan-2-mintu-road",
+    "number": "06",
+    "title": "Gulshan 2 Mintu Road",
+    "category": "Architecture · Interior · 3D Visualization",
+    "location": "Mintu Road, Gulshan 2, Dhaka",
+    "year": "2025",
+    "type": "High-End Luxury Apartment",
+    "client": "Private Residence",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "5,800 sq ft",
+    "image": "/images/projects/gulshan-2-mintu-road/2.jpg",
+    "description": "An ultra-luxury residence at Gulshan 2 Mintu Road featuring a grand master suite with crystal chandelier illumination, bespoke vanity unit with illuminated mirror, leather headboard detailing, and white leather recliner lounge.",
+    "images": [
+      "/images/projects/gulshan-2-mintu-road/1.jpg",
+      "/images/projects/gulshan-2-mintu-road/2.jpg",
+      "/images/projects/gulshan-2-mintu-road/3.jpg",
+      "/images/projects/gulshan-2-mintu-road/4.jpg",
+      "/images/projects/gulshan-2-mintu-road/5.jpg",
+      "/images/projects/gulshan-2-mintu-road/6.jpg",
+      "/images/projects/gulshan-2-mintu-road/7.jpg"
+    ]
+  },
+  {
+    "id": "modern-kitchen",
+    "number": "07",
+    "title": "Modern Kitchen Interior",
+    "category": "Interior Design · 3D Visualization",
+    "location": "Dhaka, BD",
+    "year": "2025",
+    "type": "Modular Kitchen Interior",
+    "client": "Private Residence",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "220 sq ft",
+    "image": "/images/projects/modern-kitchen/1.jpg",
+    "description": "A sleek, contemporary modular kitchen interior featuring white acrylic cabinetry, black marble countertops, glass display wall units with warm LED under-cabinet strip lighting, and scenic window views.",
+    "images": [
+      "/images/projects/modern-kitchen/1.jpg",
+      "/images/projects/modern-kitchen/2.jpg"
+    ]
+  },
+  {
+    "id": "narayanganj-residential",
+    "number": "08",
+    "title": "Narayanganj Residential",
+    "category": "Architecture · Interior · 3D Visualization",
+    "location": "Narayanganj, BD",
+    "year": "2025",
+    "type": "Luxury Duplex Residence",
+    "client": "Private Residence",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "5,100 sq ft",
+    "image": "/images/projects/narayanganj-residential/2.jpg",
+    "description": "A contemporary luxury residential interior in Narayanganj featuring an elegant entry foyer with brass display partitions, U-shaped open kitchen with breakfast bar, geometric false ceiling lighting, and a marble TV wall.",
+    "images": [
+      "/images/projects/narayanganj-residential/1.jpg",
+      "/images/projects/narayanganj-residential/2.jpg",
+      "/images/projects/narayanganj-residential/3.jpg",
+      "/images/projects/narayanganj-residential/4.jpg",
+      "/images/projects/narayanganj-residential/5.jpg",
+      "/images/projects/narayanganj-residential/6.jpg",
+      "/images/projects/narayanganj-residential/7.jpg",
+      "/images/projects/narayanganj-residential/8.jpg"
+    ]
+  }
+]
