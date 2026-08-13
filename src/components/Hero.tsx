@@ -9,9 +9,9 @@ import ImageWithFallback from "./ImageWithFallback";
 
 export default function Hero() {
   const images = [
-    "/images/hero_living.jpg",
-    "/images/hero_bedroom1.jpg",
-    "/images/hero_bedroom2.jpg"
+    "/images/hero_slider_1.jpg",
+    "/images/hero_slider_2.jpg",
+    "/images/hero_slider_3.jpg"
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
