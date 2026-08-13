@@ -56,7 +56,7 @@ export default function AboutSection() {
             className="lg:col-span-5 h-[350px] lg:h-auto min-h-[400px] border border-border p-2 bg-card relative group overflow-hidden"
           >
             <ImageWithFallback
-              src="/images/designer_portrait.jpg"
+              src="/images/rubel_suit_portrait.jpg"
               alt="Rubel Mia Portrait"
               fallbackText="Rubel Mia"
               category="Lead Design Architect"
