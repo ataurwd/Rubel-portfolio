@@ -85,21 +85,19 @@ export default function Navbar() {
 
         {/* Action Button */}
         <div className="hidden md:block">
-          <Button
-            variant="outline"
-            className={`text-xs uppercase tracking-widest py-5 px-6 rounded-none cursor-pointer transition-all duration-300 ${
+          <a
+            href="https://drive.google.com/file/d/1IE3HHTzvwFaLmWiFhoYyAnuKePE36GE0/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`inline-flex items-center gap-1.5 text-xs uppercase tracking-widest py-3 px-6 border font-mono transition-all duration-300 ${
               scrolled
                 ? "border-primary text-foreground hover:bg-primary hover:text-background bg-transparent"
                 : "border-white/30 text-white hover:bg-white hover:text-zinc-950 bg-transparent"
             }`}
-            onClick={() => {
-              const target = document.querySelector("#contact");
-              if (target) target.scrollIntoView({ behavior: "smooth" });
-            }}
           >
-            <span>Let's Work Together</span>
-            <ArrowUpRight className="ml-1 w-4 h-4" />
-          </Button>
+            <span>Download CV</span>
+            <ArrowUpRight className="w-4 h-4 text-accent" />
+          </a>
         </div>
 
         {/* Mobile Navigation Trigger */}
@@ -138,16 +136,16 @@ export default function Navbar() {
                     {designerInfo.location}
                   </p>
                 </div>
-                <Button
-                  className="w-full text-xs uppercase tracking-widest bg-primary text-background hover:bg-accent/90 py-6 rounded-none cursor-pointer"
-                  onClick={() => {
-                    setIsOpen(false);
-                    const target = document.querySelector("#contact");
-                    if (target) target.scrollIntoView({ behavior: "smooth" });
-                  }}
+                <a
+                  href="https://drive.google.com/file/d/1IE3HHTzvwFaLmWiFhoYyAnuKePE36GE0/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => setIsOpen(false)}
+                  className="w-full flex items-center justify-center gap-2 text-xs uppercase tracking-widest bg-primary text-background hover:bg-accent/90 py-4 font-mono font-bold transition-colors"
                 >
-                  Let's Work Together
-                </Button>
+                  <span>Download CV</span>
+                  <ArrowUpRight className="w-4 h-4 text-accent" />
+                </a>
               </div>
             </SheetContent>
           </Sheet>

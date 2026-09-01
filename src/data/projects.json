@@ -171,5 +171,47 @@
       "/images/projects/narayanganj-residential/7.jpg",
       "/images/projects/narayanganj-residential/8.jpg"
     ]
+  },
+  {
+    "id": "crown-cement-office",
+    "number": "09",
+    "title": "Crown Cement Office Interior",
+    "category": "Commercial Interior · Corporate Office · 3D Visualization",
+    "location": "Munshiganj, BD",
+    "year": "2025",
+    "type": "Corporate Office Interior",
+    "client": "Crown Cement PLC",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "7,500 sq ft",
+    "image": "/images/projects/crown-cement-office/4.jpg",
+    "description": "A modern corporate office interior designed for Crown Cement in Munshiganj. Features a refined marble reception counter with vertical timber slat feature wall, vibrant breakout lounge with skyline views, collaborative hot-desking workstations with warm acoustic fluted paneling, and sophisticated linear ambient lighting.",
+    "images": [
+      "/images/projects/crown-cement-office/1.jpg",
+      "/images/projects/crown-cement-office/2.jpg",
+      "/images/projects/crown-cement-office/3.jpg",
+      "/images/projects/crown-cement-office/4.jpg",
+      "/images/projects/crown-cement-office/5.jpg"
+    ]
+  },
+  {
+    "id": "dazzle-rajshahi",
+    "number": "10",
+    "title": "Dazzle Store Rajshahi",
+    "category": "Commercial Interior · Retail Store · 3D Visualization",
+    "location": "Rajshahi, BD",
+    "year": "2025",
+    "type": "Retail & Tech Experience Store",
+    "client": "Dazzle Bangladesh",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "2,400 sq ft",
+    "image": "/images/projects/dazzle-rajshahi/3.jpg",
+    "description": "A contemporary tech retail store design for Dazzle in Rajshahi. Features custom interactive smartphone display kiosks, backlit accessory showcase walls, an organic biophilic green wall with wooden grid backdrop at the cash counter, custom illuminated 'dazzle' ceiling lighting installation, and premium marble tile flooring.",
+    "images": [
+      "/images/projects/dazzle-rajshahi/1.jpg",
+      "/images/projects/dazzle-rajshahi/2.jpg",
+      "/images/projects/dazzle-rajshahi/3.jpg",
+      "/images/projects/dazzle-rajshahi/4.jpg",
+      "/images/projects/dazzle-rajshahi/5.jpg"
+    ]
   }
 ]
