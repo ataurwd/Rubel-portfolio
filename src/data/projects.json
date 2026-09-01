@@ -1,7 +1,28 @@
 [
   {
-    "id": "residential-build",
+    "id": "crown-cement-office",
     "number": "01",
+    "title": "Crown Cement Office Interior",
+    "category": "Commercial Interior · Corporate Office · 3D Visualization",
+    "location": "Munshiganj, BD",
+    "year": "2025",
+    "type": "Corporate Office Interior",
+    "client": "Crown Cement PLC",
+    "role": "3D Visualizer & Interior Designer",
+    "area": "7,500 sq ft",
+    "image": "/images/projects/crown-cement-office/4.jpg",
+    "description": "A modern corporate office interior designed for Crown Cement in Munshiganj. Features a refined marble reception counter with vertical timber slat feature wall, vibrant breakout lounge with skyline views, collaborative hot-desking workstations with warm acoustic fluted paneling, and sophisticated linear ambient lighting.",
+    "images": [
+      "/images/projects/crown-cement-office/1.jpg",
+      "/images/projects/crown-cement-office/2.jpg",
+      "/images/projects/crown-cement-office/3.jpg",
+      "/images/projects/crown-cement-office/4.jpg",
+      "/images/projects/crown-cement-office/5.jpg"
+    ]
+  },
+  {
+    "id": "residential-build",
+    "number": "02",
     "title": "Residential Build",
     "category": "Architecture · Interior · 3D Visualization",
     "location": "Dhaka, BD",
@@ -23,7 +44,7 @@
   },
   {
     "id": "gulshan-2-residential",
-    "number": "02",
+    "number": "03",
     "title": "Gulshan 2 Residential",
     "category": "Interior Design · 3D Visualization",
     "location": "Gulshan 2, Dhaka",
@@ -49,7 +70,7 @@
   },
   {
     "id": "modern-bathroom",
-    "number": "03",
+    "number": "04",
     "title": "Modern Luxury Bathroom",
     "category": "Interior Design · 3D Visualization",
     "location": "Dhaka, BD",
@@ -67,7 +88,7 @@
   },
   {
     "id": "residence-building-4",
-    "number": "04",
+    "number": "05",
     "title": "Residence Building 04",
     "category": "Architecture · Interior · 3D Visualization",
     "location": "Dhaka, BD",
@@ -90,7 +111,7 @@
   },
   {
     "id": "office-interior",
-    "number": "05",
+    "number": "06",
     "title": "Office Interior",
     "category": "Commercial Interior · Space Planning · 3D Visualization",
     "location": "Banani, Dhaka",
@@ -109,7 +130,7 @@
   },
   {
     "id": "gulshan-2-mintu-road",
-    "number": "06",
+    "number": "07",
     "title": "Gulshan 2 Mintu Road",
     "category": "Architecture · Interior · 3D Visualization",
     "location": "Mintu Road, Gulshan 2, Dhaka",
@@ -132,7 +153,7 @@
   },
   {
     "id": "modern-kitchen",
-    "number": "07",
+    "number": "08",
     "title": "Modern Kitchen Interior",
     "category": "Interior Design · 3D Visualization",
     "location": "Dhaka, BD",
@@ -150,7 +171,7 @@
   },
   {
     "id": "narayanganj-residential",
-    "number": "08",
+    "number": "09",
     "title": "Narayanganj Residential",
     "category": "Architecture · Interior · 3D Visualization",
     "location": "Narayanganj, BD",
@@ -170,27 +191,6 @@
       "/images/projects/narayanganj-residential/6.jpg",
       "/images/projects/narayanganj-residential/7.jpg",
       "/images/projects/narayanganj-residential/8.jpg"
-    ]
-  },
-  {
-    "id": "crown-cement-office",
-    "number": "09",
-    "title": "Crown Cement Office Interior",
-    "category": "Commercial Interior · Corporate Office · 3D Visualization",
-    "location": "Munshiganj, BD",
-    "year": "2025",
-    "type": "Corporate Office Interior",
-    "client": "Crown Cement PLC",
-    "role": "3D Visualizer & Interior Designer",
-    "area": "7,500 sq ft",
-    "image": "/images/projects/crown-cement-office/4.jpg",
-    "description": "A modern corporate office interior designed for Crown Cement in Munshiganj. Features a refined marble reception counter with vertical timber slat feature wall, vibrant breakout lounge with skyline views, collaborative hot-desking workstations with warm acoustic fluted paneling, and sophisticated linear ambient lighting.",
-    "images": [
-      "/images/projects/crown-cement-office/1.jpg",
-      "/images/projects/crown-cement-office/2.jpg",
-      "/images/projects/crown-cement-office/3.jpg",
-      "/images/projects/crown-cement-office/4.jpg",
-      "/images/projects/crown-cement-office/5.jpg"
     ]
   },
   {
