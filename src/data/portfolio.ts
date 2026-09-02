@@ -80,6 +80,7 @@ export const designerInfo = {
   email: "rubel450000@gmail.com",
   phone: "+880 1567-993310",
   location: "Dhaka, Bangladesh",
+  resumeUrl: "https://drive.google.com/file/d/1pvjWXl6ci0k7Xcqn9-C_i_OpxbJkM64M/view?usp=sharing",
   bioHeadline: "Designing spaces that balance form, function, and human experience.",
   bioDescription: "I am a professional 3D Visualizer and Interior Designer specializing in creating high-quality, photorealistic interior and exterior visualizations. I transform architectural concepts and design ideas into realistic 3D spaces with accurate materials, lighting, furniture, and detailed finishes.",
   statistics: [

@@ -2,8 +2,8 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { Briefcase } from "lucide-react";
-import { experienceTimeline } from "@/data/portfolio";
+import { Briefcase, ArrowUpRight } from "lucide-react";
+import { experienceTimeline, designerInfo } from "@/data/portfolio";
 
 export default function ExperienceSection() {
   const containerVariants = {
@@ -41,7 +41,15 @@ export default function ExperienceSection() {
             </p>
           </div>
           <div className="hidden lg:block text-xs font-mono text-muted-foreground/60 border-t border-border/40 pt-6 mt-8">
-            <span>CURRICULUM VITAE</span>
+            <a
+              href={designerInfo.resumeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 hover:text-accent transition-colors group"
+            >
+              <span>CURRICULUM VITAE</span>
+              <ArrowUpRight className="w-3.5 h-3.5 text-accent opacity-70 group-hover:opacity-100 transition-opacity" />
+            </a>
           </div>
         </div>
 

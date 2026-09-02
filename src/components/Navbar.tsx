@@ -37,11 +37,10 @@ export default function Navbar() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 w-full transition-all duration-300 ${
-        scrolled
-          ? "bg-background/85 backdrop-blur-md border-b border-border/40 py-4"
-          : "bg-transparent py-6"
-      }`}
+      className={`fixed top-0 left-0 right-0 z-50 w-full transition-all duration-300 ${scrolled
+        ? "bg-background/85 backdrop-blur-md border-b border-border/40 py-4"
+        : "bg-transparent py-6"
+        }`}
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
         {/* Logo Monogram */}
@@ -53,16 +52,14 @@ export default function Navbar() {
           }}
           className="flex items-center gap-3 group"
         >
-          <div className={`w-10 h-10 border flex items-center justify-center font-mono font-bold text-sm tracking-widest relative overflow-hidden transition-all duration-300 ${
-            scrolled 
-              ? "border-primary text-foreground group-hover:bg-primary group-hover:text-background"
-              : "border-white/40 text-white group-hover:bg-white group-hover:text-zinc-950 group-hover:border-white"
-          }`}>
+          <div className={`w-10 h-10 border flex items-center justify-center font-mono font-bold text-sm tracking-widest relative overflow-hidden transition-all duration-300 ${scrolled
+            ? "border-primary text-foreground group-hover:bg-primary group-hover:text-background"
+            : "border-white/40 text-white group-hover:bg-white group-hover:text-zinc-950 group-hover:border-white"
+            }`}>
             {designerInfo.monogram}
           </div>
-          <span className={`text-xs uppercase font-bold tracking-[0.2em] font-sans transition-colors duration-300 ${
-            scrolled ? "text-foreground" : "text-white"
-          }`}>
+          <span className={`text-xs uppercase font-bold tracking-[0.2em] font-sans transition-colors duration-300 ${scrolled ? "text-foreground" : "text-white"
+            }`}>
             {designerInfo.name}
           </span>
         </a>
@@ -74,9 +71,8 @@ export default function Navbar() {
               key={link.label}
               href={link.href}
               onClick={(e) => handleLinkClick(e, link.href)}
-              className={`text-xs uppercase tracking-widest transition-colors font-medium relative py-1 after:absolute after:bottom-0 after:left-0 after:w-full after:h-[1px] after:bg-accent after:scale-x-0 after:origin-right hover:after:scale-x-100 hover:after:origin-left after:transition-transform after:duration-300 ${
-                scrolled ? "text-muted-foreground hover:text-foreground" : "text-white/75 hover:text-white"
-              }`}
+              className={`text-xs uppercase tracking-widest transition-colors font-medium relative py-1 after:absolute after:bottom-0 after:left-0 after:w-full after:h-[1px] after:bg-accent after:scale-x-0 after:origin-right hover:after:scale-x-100 hover:after:origin-left after:transition-transform after:duration-300 ${scrolled ? "text-muted-foreground hover:text-foreground" : "text-white/75 hover:text-white"
+                }`}
             >
               {link.label}
             </a>
@@ -86,14 +82,13 @@ export default function Navbar() {
         {/* Action Button */}
         <div className="hidden md:block">
           <a
-            href="https://drive.google.com/file/d/1IE3HHTzvwFaLmWiFhoYyAnuKePE36GE0/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pvjWXl6ci0k7Xcqn9-C_i_OpxbJkM64M/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
-            className={`inline-flex items-center gap-1.5 text-xs uppercase tracking-widest py-3 px-6 border font-mono transition-all duration-300 ${
-              scrolled
-                ? "border-primary text-foreground hover:bg-primary hover:text-background bg-transparent"
-                : "border-white/30 text-white hover:bg-white hover:text-zinc-950 bg-transparent"
-            }`}
+            className={`inline-flex items-center gap-1.5 text-xs uppercase tracking-widest py-3 px-6 border font-mono transition-all duration-300 ${scrolled
+              ? "border-primary text-foreground hover:bg-primary hover:text-background bg-transparent"
+              : "border-white/30 text-white hover:bg-white hover:text-zinc-950 bg-transparent"
+              }`}
           >
             <span>Download CV</span>
             <ArrowUpRight className="w-4 h-4 text-accent" />
@@ -103,9 +98,8 @@ export default function Navbar() {
         {/* Mobile Navigation Trigger */}
         <div className="md:hidden">
           <Sheet open={isOpen} onOpenChange={setIsOpen}>
-            <SheetTrigger render={<Button variant="ghost" size="icon" className={`rounded-none cursor-pointer transition-colors duration-300 ${
-              scrolled ? "text-foreground" : "text-white"
-            }`} />}>
+            <SheetTrigger render={<Button variant="ghost" size="icon" className={`rounded-none cursor-pointer transition-colors duration-300 ${scrolled ? "text-foreground" : "text-white"
+              }`} />}>
               <Menu className="w-6 h-6" />
             </SheetTrigger>
             <SheetContent side="right" className="w-full sm:w-[320px] bg-background border-l border-border flex flex-col justify-between p-8 rounded-none">
@@ -137,7 +131,7 @@ export default function Navbar() {
                   </p>
                 </div>
                 <a
-                  href="https://drive.google.com/file/d/1IE3HHTzvwFaLmWiFhoYyAnuKePE36GE0/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1pvjWXl6ci0k7Xcqn9-C_i_OpxbJkM64M/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setIsOpen(false)}
